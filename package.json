@@ -1,0 +1,25 @@
+{
+  "name": "recolor-image",
+  "version": "1.0.0",
+  "description": "",
+  "main": "electron .",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JieJiSS/recolor-image.git"
+  },
+  "keywords": [
+    "OpenCV",
+    "Python",
+    "Electron.js"
+  ],
+  "author": "JieJiSS",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/JieJiSS/recolor-image/issues"
+  },
+  "homepage": "https://github.com/JieJiSS/recolor-image#readme"
+}
